@@ -1,0 +1,45 @@
+Heavy wg process vs Light wg process
+
+diff b/w waterfall model & agile
+wt is the problem in waterfall model
+
+changes in bussiness req \ product >> 
+req >> dynamic in nature
+
+wt will be the release timeline?
+
+Agile
+
+1) sprint- release schedule : 2 weeks
+
+2) scrum meeting- 1)wt hv achieved yesterday
+                  2)wt will u do today
+                  3)any blockers
+
+Are the blockers/dependencies solution discussed in the scrum meeting? >> NO
+
+Scrum meeting >> daily standup meeting
+
+Project team >> dev + UI + QA + Customer + PM
+
+Need vs Req
+
+Need >> I should hv food
+Req >> I should hv a food in 3*
+
+Wt r activities? >> talk abt tasks/activites
+
+Types of Backlogs? >> Product backlog >> overall list of features tat u want to implement BUT is not priorities
+                      Sprint backlog >> user stories tat need to be completed in specific time period
+                      Release backlog >> features to be implemented in a release
+
+Retrospective/Retrospective meeting?
+
+wt is release cycle?
+What is sprint cycle ?
+ 
+Is release cycle == sprint cycle?
+ 
+When should the retrospective happen?
+
+Burn-down chart?
