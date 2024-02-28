@@ -1,0 +1,21 @@
+Product Backlog                                 1 Agile Methotology framework
+
+product owner                                   2 Scrum follw the agile methodology
+product backlog  both with eg
+                                                3 Waterfall Model
+                                                  requrirement,design,development,testing,deployment,maintaince
+Waterfall Model Software Engineering             disadvantage--onces reched other phase u cant add other model inbetween
+                                                             --waste of time , 
+                                                 Solution -- is Agile
+Scrum Framework                                  Wt is Agile 
+                                                 -- 4 values and 12 principles 
+                                                   4 values-- * individuals and interactions over(processes and tools)
+                                                              *working software over (comprehensive documentation)
+                                                              *customer collaboration over (contract negotiation)
+                                                              *responding to change over (following a plan)
+
+                                                12 principles---1)early and continuous delivery of valuable software.
+
+scrum is the implimentation of agile.
+
+scrum board were their will be story,to do,in progress,to verify,done.
