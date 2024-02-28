@@ -1,0 +1,53 @@
+--Test Plan
+
+-It is a detailed doc which describe s/w testing strategy,goals,and scope
+-Test plan is a base of every s/w testing.
+
+--Steps to create efficient Test plan
+
+1 Define the release scope
+2 Schedule timelines 
+3 Define test objectives
+4 Determine test deliverables
+5 Design the test strategy
+6 Plan test environment and test data
+
+1 Define the release scope >> the set of features & functions that need to be included in the release 
+ considering any constraints and dependencies that can affect the release,and determining what type of release it is.
+ 
+2 Schedule timelines >> detailed plan that lists specific times at which certain activities or tasks will occur
+
+3 Define test objective >> helps in guide & define the scope of testing activities.
+-- types in testing
+  #Functional testing >> s/w working as it should be.
+  #Performance testing >> s/w is efficient & can handle var load.
+  #Security testing >> uncover the security prob.
+  #Usability testing >> ease to use & experience.
+
+4 Determine test deliverables >> helps in tracking the testing progress
+-There r diff test deliverables at every phase of the s/w development lifecycle
+1) Before testing
+   *test plan doc >> outlines i.e.,scope,objective,approach
+   *test suite >> running of test case i.e., i/p, expected o/p
+   *test design & environment >> outlines h/w & s/w config
+2) During testing
+   *test log >> records each test case result
+   *defect report >> list of defected reports
+   *test data >> selected to satisfy execution preconditions & input
+   *test summary >> list of reports tat hv passed & failed,run
+3) After testing
+   *test completion >> completed testing scopes,quality
+   *user acceptance test(UAT) >> issues found & fixed
+   *release notes >> info abt the release/r any additional features for devlop
+5 Design the test strategy >> cost,effort,in-scope,out-of-scope
+  types--Manual,automated,other
+
+6 Plan test environment and test data >> h/w,s/w,n/w config
+
+-steps to setup the test environment >>>
+ *Determine h/w and program requirements 
+ *Install the required s/w
+ *Configure the n/w
+ *Create the test data
+ *Access the builds
+ *Verify the test environment
