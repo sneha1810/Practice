@@ -1,0 +1,66 @@
+User Stories:
+
+--User stories in Agile are shortest/smallest unit.
+--Simple descriptions of a feature or functionality from an end user's perspective or customer.
+--They serve as a way to articulate the requirements and expectations for a particular aspect of a software project. 
+--User stories help teams understand and prioritize work based on the needs and value perceived by the users.
+--User stories are also the building blocks of larger agile frameworks like epics and initiatives.
+--Epics are large work items broken down into a set of stories, and multiple epics comprise an initiative. 
+
+      Initiative
+           |
+Epic1   Epic2   Epic3
+   |       |      |
+Story1   Story1   Story1
+Story2            Story2
+
+Why to create user stories:
+
+--focus on the user
+--enable collaboration
+--creative solutions
+--create momentum
+
+User story template and examples:
+
+** As a [user role/person],(who) 
+   I want to [action/task],(what) 
+   so that [value/benefit],(why)
+
+--1)As a website visitor, 
+    I want to easily navigate through the homepage to find information about product offerings 
+    I can quickly understand what is available.
+
+--2)As a mobile app user, 
+  I want to receive push notifications for important updates
+  I can stay informed about new features and announcements.
+
+--3)As an online shopper, 
+   I want to view customer reviews on product pages
+   I can make informed purchasing decisions based on others' experiences
+
+-Given/When/Then
+ 
+Given >> condition
+When >> action
+Then >> result
+
+
+--3C's of user stories
+
+1 Card >> planning 
+2 Conversation >> details/collab
+3 Confirmation >> acceptence certeria should be fullfilled & tested as to user req & met correctly
+
+--who can create user stories
+
+1 dev
+2 team mem
+3 product owner
+4 scrum master
+
+--Epics & Intiatives
+
+>>user stories r the building blocks of large agile frameworks like epics & initiatives.
+>>Epics r large work items broke into set of stories
+>>Multiple of epics--an initiative
