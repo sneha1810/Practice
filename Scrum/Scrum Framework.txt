@@ -1,0 +1,36 @@
+Scrum Framework
+
+*Scrum is an agile framework used for developing, delivering, and sustaining complex products.
+*Although it was initially designed for software development, it has found applications in various fields, including research, sales, marketing, and advanced technologies
+
+1 Product Owner
+* Represents the stakeholders and is responsible for maximizing the value of the product by managing and prioritizing the Product Backlog.
+
+2 Product Backlog
+*A prioritized list of features, enhancements, and fixes that represent the work to be done on the product.
+
+3 Sprint Planning
+*A collaborative meeting where the Scrum Team plans the work to be done during the upcoming Sprint.
+
+4 Sprint Backlog
+*A subset of the Product Backlog items selected for the Sprint, along with a plan for delivering the product increment.
+
+5 Sprint
+*A time-boxed iteration, usually two to four weeks, during which the Scrum Team works to deliver a potentially shippable product increment.
+
+Key aspects of Sprints in Scrum
+
+--Daily Stand-up >> A daily meeting where team members discuss their progress, plans for the day, and any impediments they are facing.
+--Increment >> The sum of all the completed and done Product Backlog items at the end of a Sprint, meeting the team's Definition of Done.
+
+6 Sprint Review
+*A meeting at the end of each Sprint where the Scrum Team presents the completed work to stakeholders and receives feedback.
+
+7 Sprint Retrospective
+*A meeting at the end of each Sprint where the team reflects on their performance and identifies improvements for the next Sprint.
+
+8 Increment
+*The sum of all the completed & potentially shippable product backlog items at the end of Sprint.
+
+9 Scrum Master
+*A servant-leader responsible for facilitating Scrum events, removing impediments, and helping the team continuously improve.
