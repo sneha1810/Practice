@@ -1,0 +1,40 @@
+Git
+--Git is a control s/m used to track changes in source code during s/w develop
+--command-line
+--installed locally on s/m
+--maintained by Linux
+--its free n open source
+
+Benefits
+--collab
+--branching n merging
+
+GitHub
+--GitHub is a service
+--graphical user interface
+--hosted on web
+--maintained by Microsoft
+
+Diff b/w git n github
+--git is a s/w but github is service
+--git is locally on s/m where as github hosted on web
+
+Centralized >> centralised user every change done should come to main(cental)user
+Distributed >> take data from server(main branch) pull req to get data to the server(locally available)onces done with task thn push to the main branch allat onces instand of multiple time in centralized
+
+Types  
+--git 
+--mercurial
+--monotone 
+--bitkeeper
+
+>>commands
+--git init >> initialize an existing directory
+--git clone<rep-link>  >> create a copy of specific rep or branch
+--git add<file_name>
+--git branch<branch_name>
+--git checkout<branch_name>
+--git merge<branch_name>
+--git fetch >> fetchs all the branches
+--git push >> transmit to local branch
+--git pull >> fetch n merge
