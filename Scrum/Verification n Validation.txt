@@ -1,0 +1,31 @@
+Verification
+--It focuses on assessing the product during development to ensure that it meets specified requirements. 
+-- It ensures the software is built according to the needs and design specifications.
+
+Advantages 
+--Early Detection of Errors
+--Consistency with req
+--cost efficiency
+--Enhanced quality
+
+Validation
+--It involves evaluating the product after the development phase to confirm that it satisfies the customer's needs.
+-- It ensures the software fits its intended purpose and meets the user’s expectations.
+
+Advantages
+--Assurance of customer satifaction
+--Increased confidence in s/m performance
+--Compliance with user needs
+
+Diff b/w Verification n Validation
+
+-It does not require executing code.
+-This involves only human verification of required assets.
+-It comes before validation testing.
+
+-It always requires executing code.
+-This involves both human and machine-based checking and approval of software.
+-It follows verification testing. 
+
+
+
